@@ -3,7 +3,7 @@
 > Checked = explicitly confirmed complete by learner. Never auto-marked.
 
 ## 1. Basics
-- [ ] Syntax, variables (var/let/const)
+- [x] Syntax, variables (var/let/const)
 - [ ] Data types, type coercion
 - [ ] Operators
 - [ ] Conditionals, loops
